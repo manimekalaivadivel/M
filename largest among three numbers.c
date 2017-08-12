@@ -9,11 +9,12 @@ if(a>b&&a>c)
 {
 printf("a is big%d",a);
 }
+  else
 if(b>a&&b>c)
 {
 printf("b is big%d",b);
 }
-if(c>a&&c>b)
-{
+  else
+  {
 printf("c is big%d",c);
 }}
